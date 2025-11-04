@@ -16,8 +16,7 @@ Mobile and Web Developer with solid experience in designing and developing both 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/GChimera?locale.x=it_IT&country.x=IT) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/chimeradevapp) 
-  (https://ko-fi.com/chimeradevapp)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GChimera?locale.x=it_IT&country.x=IT) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/chimeradevapp) (https://buymeacoffee.com/chimeradev)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
